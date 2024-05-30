@@ -1,0 +1,98 @@
+﻿Personaje:
+atk base:10
+vida:100
+velocidad:5
+velocidad de ataque:5
+
+
+Dificultades:
+Fácil:reducen stats
+
+atk:0.25(stats)
+vida:0.25(stats)
+velocidad:+1
+velocidad de ataque:+1
+
+
+Medio:stats aumentan
+
+
+atk:0.25(stats)
+vida:0.25(stats)
+velocidad:-1
+velocidad de ataque:-1
+Difícil:stats aumentan
+(todo)
+atk:0.5(stats)
+vida:0.5(stats)
+velocidad:-2
+velocidad de ataque:-2
+
+
+Enemigos:
+
+
+1-Perro:
+atk:10
+vida:40
+velocidad:20
+velocidad de ataque:4
+drops:
+40%carta de equipamiento.
+60%carta de mundo.
+
+
+2-Slime:
+Atk:5
+Vida:15
+Velocidad:10
+Velocidad de ataque:5
+drops:
+70%carta de equipamiento.
+30%carta de mundo.
+
+
+
+
+3-Araña:
+Atk:5
+Vida:15
+Velocidad:10
+Velocidad de ataque:5
+drops:
+100%carta de mundo.
+
+
+Cartas:
+
+
+Carta 1:
+Tela de araña:aumenta las probabilidades en 20% de aparecer una araña en el mapa
+
+
+Carta 2::
+Cementerio:aumenta las probabilidades en 20% de aparecer una perro en el mapa
+
+
+
+
+Carta 3:
+Carta de Campo:aumenta las probabilidades en 20% de aparecer una Slime en el mapa
+
+
+
+
+Equipamiento:
+
+
+Espada 1:
+atk:+10
+
+
+Armadura
+vida:+20
+
+
+Botas:
+velocidad+2
+velocidad de ataque -1
